@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420397573246",
+    "project_id": "doksd-9d79a",
+    "storage_bucket": "doksd-9d79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420397573246:android:7a2e55d504c46afaf8a42f",
+        "android_client_info": {
+          "package_name": "com.omirSD.Doksd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420397573246-0g026a5nasceg1snmfuo2rrqu3cch6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs16N8WZB17cn5UehoO59RP1W9m7aO4OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420397573246-0g026a5nasceg1snmfuo2rrqu3cch6e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
